@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F791B8&vCenter=true&width=440&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E8%BF%99%E9%87%8C%E6%98%AF%E6%BE%AA%E4%B9%8B%E6%A2%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E3%80%82)
 
-<img align="right" src="C:\Users\三三sama\Desktop\mio.png" width='350px' alt="澪">            
+<img align="right" src="assets/mio.png" width='350px' alt="澪">            
 
 # About me 
 
